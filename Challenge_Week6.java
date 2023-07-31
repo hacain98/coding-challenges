@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge_Week1 {
+public class Challenge_Week6 {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
@@ -31,4 +31,3 @@ public class Challenge_Week1 {
     //If you get stuck on a challenge, find help in the Resources tab.
     //If you're really stuck, unlock solutions in the Solutions tab
 }
-
